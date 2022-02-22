@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation against the false dying of silke</title>
+            <title>Proclamations. 1630-08-09</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22532</idno>
+            <idno type="STC">STC 8961</idno>
+            <idno type="STC">ESTC S101010</idno>
+            <idno type="EEBO-CITATION">99836836</idno>
+            <idno type="PROQUEST">99836836</idno>
+            <idno type="VID">1125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation against the false dying of silke</title>
+                  <title>Proclamations. 1630-08-09</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles, I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXX. [1630]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Farnham, the ninth day of August, in the sixth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 24; Steele notation: Realme, into 2) some 3) there- shall.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Silk industry --  Great Britain --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:1125:1"/>
+            <!-- PDF PAGE 55 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. <g ref="char:leaf">❧</g> A Proclamation againſt the falſe dying of Silke.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Trade of Silke within this Realme,</hi> by the importation thereof raw from foreigne parts, and Throw<g ref="char:EOLhyphen"/>ing, Dying, and working the ſame into Manufactures here at home, is much increaſed within a few yeeres now paſt, and the ſame is likely to be much more enlarged, to the enriching of this Kingdome, and the ſetting of many thouſand poore people on worke, vnleſſe the deceitfull handling thereof, doe bring the ſame into diſcredit, and deſtroy the reputation thereof, and thereby de<g ref="char:EOLhyphen"/>priue the Land of ſo hopefull a Trade, when it hath neere attained to the perfection thereof.</p>
+            <p>And whereas it hath beene lately diſcouered in Our Court of Starre-Chamber, that a notable abuſe hath crept in by the Fraud and Couetize of ſome ill diſpoſed perſons, (ſome of which haue already been deſeruedly puniſhed by the iuſt Sentence of that Court, and the reſt of the offenders ſhall ſurely be proſecuted for an example to all others) by adding to the weight of Silke in their Dye beyond a iuſt proportion, by falſe and deceitfull mixture of the ingredi<g ref="char:EOLhyphen"/>ents vſed in the Dying, whereby, beſides the vniuſt encreaſe of the weights, the Silke is weakened and corrupted, and the colour made worſe, to the great abuſe of Vs and Our Subiects, and to the apparant ouerthrow of the whole Trade, if the ſame bee not ſpeedi<g ref="char:EOLhyphen"/>ly preuented.</p>
+            <p>Wee taking this into Our Princely conſideration, and eſteeming it a worke worthy of Our Royall care, haue thought it fit by this Our publique Proclamation, vtterly to forbid the
+<pb facs="tcp:1125:2"/>
+               <!-- PDF PAGE 56 -->
+               <pb facs="tcp:1125:2"/>
+               <!-- PDF PAGE 56 -->vſe of all ſuch deceit and falſitie in Dying of Silkes, and for the preſent to preſcribe ſome probable Rules to bee obſerued, for the preuenting of the like abuſes hereafter, vntill vpon ſerious and mature deliberation, Wee, by the aduice of Our Counſell, ſhall bee able to make a more abſolute reformation.</p>
+            <p>In the firſt place therefore Wee doe ſtraitly charge and command, That no Silke-Dyer doe at any time hereafter vſe any Slipp, Alder-barke, filings of Iron, or other corrupt or de<g ref="char:EOLhyphen"/>ceitfull matter in dying of Silkes, either blacke, or into Colours, whereby the weight of the Silke ſhall or may be increaſed, vpon paine of Our high diſpleaſure, &amp; of ſuch further paines and puniſhments, as by Our Lawes, or by the Sentence of Our Court of Starre-chamber, or by Our Prerogatiue Royall, can or may be inflicted vpon the offendors; And if any Silke-man, Silke-weauer, or other perſon vſing the Trade of buying or ſelling of Silke, either in groſſe, or by retaile, either by the ſkaine, or other weight, or which ſhall conuert the ſame into Lace, Ribben, Buttons, Points, or other Manufactures, or ſhall vſe the Trade of buying or ſelling the ſame ſo conuerted, ſhall bee priuie and conſenting to ſuch deceipt in Dy<g ref="char:EOLhyphen"/>ing, or knowing the ſame to bee ſo falſely Dyed, ſhall buy, receiue, or put the ſame to ſale, or vtter the ſame to any other, Euery ſuch offendor ſhall incurre the like puniſhment as the Silke-Dyer himſelfe ſhould vndergoe by the intention of this Our Proclamation.</p>
+            <p>And to the end that all good meanes may bee vſed, which may further this reformation intended, Wee further ſtraitly charge and command, That no Silke ſhall be dyed of any other Blacke, but of that colour and dye called or knowne by the name of Spaniſh blacke, and not of that Dye which is called or knowne by the name of <hi>London</hi> blacke, or light weight.</p>
+            <p>That no Silke-Dyer doe dye any Silke before the Gumme bee fayre boyled off from the Silke being raw, ſo that the pound of Raw ſilke, which before the Gumme boyled off was ſixteene ounces, be reduced to twelue ounces, or thereabouts, when the Gumme is boyled off.</p>
+            <p>That no ſilke weighing a pound before it be put to dying, &amp; after dyed into Spaniſh blacke, doe exceede ſixteene ounces after it is dyed; And that the pound weight of Silke of <hi>Italy</hi> dyed into blacke, doe not exceed fifteene ounces when it is dyed, with halfe an ounce at the moſt for remedie.</p>
+            <p>That no pound weight of Silke which ſhall be dyed into theſe ſadd Colours following, <hi>(viz.)</hi> Liuer-colour, Deroy, Tawny, Purple, French greene, Gingerline, Deere colour, Orange colour, or light Ruſſet, ſhall exceede thirteene ounces when it is dyed, and halfe an ounce at the moſt for remedie.</p>
+            <p>That no pound weight of Silke which ſhall bee dyed into other colours, which are called Light colours, exceed twelue ounces when it is dyed, and halfe an ounce at the moſt for reme<g ref="char:EOLhyphen"/>die; And that no Galles be vſed in the dying of thoſe light colours.</p>
+            <p>That no pound weight of Silke which ſhall be dyed into Graine colours, doe exceed thir<g ref="char:EOLhyphen"/>teene ounces when it is dyed, and halfe an ounce at the moſt for remedy.</p>
+            <p>That no pound weight of Silke which ſhall be vſed, as white, or light Yellow, for Siluer and Gold threed, ſhall exceede twelue ounces, without any addition for remedy.</p>
+            <p>That the Throwſter doe not adde any Gumme, Sirrops, or other deceitfull ſtuffe to en<g ref="char:EOLhyphen"/>creaſe the weight before it goe to the Dyer.</p>
+            <p>That no Broker ſell any dyed Silkes, vnleſſe the owner himſelfe appeare in perſon, and owne the ſame, that he may bee anſwerable for the abuſe in dying, if there fall out to be any.</p>
+            <pb facs="tcp:1125:3"/>
+            <!-- PDF PAGE 57 -->
+            <p>
+               <pb facs="tcp:1125:3"/>
+               <!-- PDF PAGE 57 -->
+That all Stuffes made of Silke, be marked with the proper Marke of the Weauer there<g ref="char:EOLhyphen"/>of; And that no perſon buying Silke, doe Dye his owne Silke.</p>
+            <p>And Wee ſtraitly charge and command, That the Lord Maior of <hi>London,</hi> within the Ci<g ref="char:EOLhyphen"/>tie and Liberties thereof, The Maſter, Wardens, and Aſſiſtants of the Company of Dyers of <hi>London,</hi> (as farre as by their Charters they are enabled) and all other Maiors, Sheriffes, Iuſtices of Peace, Bailiffes, and other head Officers within their ſeuerall Iuriſdictions in all parts of this Kingdome of <hi>England,</hi> and Realme of <hi>Ireland,</hi> doe vſe all diligence to ſearch, finde out, and preuent all the abuſes in falſe or deceitfull Dying of Silke, according to the power they already haue to that purpoſe, and according to the direction of theſe Preſents; And ſuch abuſes beeing found, that they diſcouer the ſame to the Lords of Our Priuie Coun<g ref="char:EOLhyphen"/>ſell, or to Our Attourney generall for the time being, to the end that the offendors may be puniſhed for the ſame.</p>
+            <p>And becauſe it were in vaine to command the true and honeſt Dying of Silke within this Realme, and ſuffer ſilke falſly Dyed beyond the Seas to be imported, Wee doe ſtraitly charge and command, That no man bee ſo hardy as to bring into theſe Our Realmes of <hi>England</hi> or <hi>Ireland,</hi> or any Port, Hauen, Creeke, or place thereof, any Silke deceitfully Dyed with increaſe of weight, vpon paine of forfeiture thereof, and of ſuch further puniſhment as may by Law be inflicted vpon them.</p>
+            <p>And laſtly, becauſe there is at this preſent much Silke in the hands of many perſons, which hath been falſly Dyed as aforeſaid, Wee doe ſtraitly charge and command, that all ſuch Silke bee tranſported out of theſe Kingdomes before the firſt day of December now next comming<g ref="char:punc">▪</g> And if after that day any ſuch falſe or deceitfull Dyed Silke, either already ſo Dyed, or hereaf<g ref="char:EOLhyphen"/>ter to be ſo died, ſhall be found in the hands of any perſon whatſoeuer, beſides the puniſhments aforeſaid, the Silke it ſelfe ſhall bee burnt, and vtterly deſtroyed whereſoeuer the ſame ſhal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be found.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Farnham, <date>the ninth day of Auguſt, in the ſixth yeere o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+               <g ref="char:leaf">❧</g> God ſaue the King. <g ref="char:leaf">❧</g>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Prin<g ref="char:EOLhyphen"/>ter to the Kings moſt Excellent Maieſtie: and by the Aſsignes of Iohn Bill. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
